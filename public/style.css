@@ -1,10 +1,9 @@
 body {
   margin: 0px;
-  font-family: 'Arial';
+  font-family: 'Amazon Ember';
 }
 
 #shazamazon {
-  display: inline-block;
   height: 100%;
   width: 100%;
 }
@@ -23,24 +22,29 @@ body {
 
 #gall_root {
   margin-left: 15px;
-}
-
-#des_itemDescriptionModule {
-  width: 100%;
-}
-
-#Carousel {
-  margin-left: 15px;
   margin-right: 15px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+}
+
+#car-container {
+  margin: 50px 20px 20px 15px;
+  height:100%;
 }
 
 #reviewsApp {
   margin-left: 15px;
   margin-right: 15px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+}
+
+#qa-app {
+  margin: 50px 20px 20px 15px;
+}
+
+#rev_rev_stream {
+  overflow: none;
+}
+
+#Browsing-History-Carousel {
+  margin: 15px 20px 20px 15px;
 }
 
 
