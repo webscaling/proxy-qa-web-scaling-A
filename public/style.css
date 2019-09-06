@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  font-family: 'Amazon Ember';
+  font-family: 'Amazon Ember' !important;
 }
 
 #shazamazon {
@@ -47,27 +47,6 @@ body {
   margin: 15px 20px 20px 15px;
 }
 
-
-
-/* #nav-category-selector {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  -webkit-border-radius: 0px;
-  background-image: url("https://cdn1.iconfinder.com/data/icons/pixel-perfect-at-16px-volume-2/16/5001-128.png");
-  background-position: 95% 50%;
-  background-repeat: no-repeat;
-  background-size: 8px;
-  display: block;
-  border: none;
-  background-color: #F3F3F3;
-  border-radius: 0;
-  border-right: 1px solid #CDCDCD;
-  border-top-left-radius: 7%;
-  border-bottom-left-radius: 7%;
-  margin-left: 16px;
-  color: #6D6D6D;
-  font-size: 10pt;
-  font-weight: 400;
-  width: fit-content;
-  padding-left: 3px;
-} */
+#des_app {
+  width: 35%;
+}
