@@ -1,11 +1,30 @@
 body {
   margin: 0px;
+  width: 100%;
+  height: 100%;
   font-family: 'Amazon Ember' !important;
 }
 
 #shazamazon {
   height: 100%;
   width: 100%;
+}
+
+#nav-main {
+  height: 100%;
+  width: 100%;
+}
+
+.nav-category {
+  font-size: 12px;
+}
+
+#nav-location-text {
+  font-size: 8px;
+}
+
+#nav-cart-container {
+  font-size: 12px;
 }
 
 #top {
